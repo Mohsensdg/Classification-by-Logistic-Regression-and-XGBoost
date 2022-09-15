@@ -7,4 +7,4 @@ https://www.kaggle.com/datasets/sagnik1511/car-insurance-data?select=Car_Insuran
 
 After conducting significant data analysis, I experimented with two classification models to see how well they performed on the dataset. With accuracy, precision, and recall score, I obtained quite decent results.
 
-After Tuning the Hyperparameter Logistic Regression had Accuracy of 84.73% and XGBoost algorithm had Accuracy of 84.6%
+After Tuning the Hyperparameters, Logistic Regression had the accuracy of 84.73% and XGBoost algorithm had the accuracy of 84.6%
